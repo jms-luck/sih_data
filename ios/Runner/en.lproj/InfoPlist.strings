@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "ALLOW TO ACESS LOCATION";
+PermissionGroupNotification = "ALLOW TO SEND NOTIFICATION";
